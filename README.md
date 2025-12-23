@@ -1,5 +1,5 @@
 ### Greetings , I'm Maha 
-Full Stack Developer & Networks Engineering Student
+Full Stack Developer | Aspiring Network Engineer
 ### Technical Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
