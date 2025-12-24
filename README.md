@@ -9,13 +9,12 @@
 <p align="left" style="font-size:14px; margin-top:2px;">
   <a href="https://www.linkedin.com/in/maha-abdelmalek-88b416278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     LinkedIn
-  </a>
-  <p align="left" style="font-size:14px; margin-top:2px;">
-  <a href="mahaabdelmalek2004@gmail.com">
-    Email
+  </a> | 
+  <a href="mailto:mahaabdelmalek2004@gmail.com">
+    mahaabdelmalek2004@gmail.com
   </a>
 </p>
-</p>
+
 
 
 ---
@@ -30,5 +29,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</p>
+---
+### Projects 
+<p align="left">
+  <strong>Chronicare</strong><br/>
+  Mobile application for personalized monitoring of chronic patients, developed using Flutter and Supabase.<br/><br/>
 </p>
 
