@@ -1,14 +1,20 @@
 <!-- ===== Greeting Section ===== -->
-<h1 align="left">👋 Greetings, I'm Maha</h1>
-<p align="left">Full Stack Developer</p>
-<p align="left">Bachelor in Computer Science </p>
-<p align="left">Networking & Security Enthusiast
+<!-- ===== Greeting Section ===== -->
+<h1 align="left"> Greetings, I'm Maha 🙋🏻‍♀️</h1>
+<p align="left"> 👩🏻‍💻 Full Stack Developer</p>
+<p align="left">👩🏻‍🎓 Bachelor in Computer Science </p>
+<p align="left">🌐 Networking & Security Enthusiast
 </p>
 
 <p align="left" style="font-size:14px; margin-top:2px;">
   <a href="https://www.linkedin.com/in/maha-abdelmalek-88b416278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     LinkedIn
   </a>
+  <p align="left" style="font-size:14px; margin-top:2px;">
+  <a href="mahaabdelmalek2004@gmail.com">
+    Email
+  </a>
+</p>
 </p>
 
 
