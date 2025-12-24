@@ -33,6 +33,7 @@
 ---
 ### Projects 
 <p align="left">
+  <p align="left">
   <strong>Chronicare</strong><br/>
   Mobile application for personalized monitoring of chronic patients, developed using Flutter and Supabase.<br/><br/>
 </p>
