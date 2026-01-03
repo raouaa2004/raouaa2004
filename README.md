@@ -35,4 +35,5 @@
 <h4 align="left" style="font-size:16px; font-weight:bold;">Chronicare</h4>
 Mobile application for personalized monitoring of chronic patients, developed using Flutter and Supabase.
 
-
+<h4 align="left" style="font-size:16px; font-weight:bold;">BoxBack</h4>
+BoxBack is a mobile app that allows users to **return or modify their past orders**. Customers can manage their purchases directly within the app, making it easy to correct or cancel orders when needed.
